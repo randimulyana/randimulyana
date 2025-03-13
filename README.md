@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/randimulyana/randimulyana/issues)**
 
-⚡ Fun fact **suka suara keyword mechanical, ngak suka lele eek**
+⚡ Fun fact **suka suara keyword mechanical, ngk suka gosip**
 
  </div>
  
